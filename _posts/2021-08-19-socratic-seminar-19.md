@@ -10,6 +10,7 @@ meetup: https://www.meetup.com/Austin-Bitcoin-Developers/events/278027514/
 - Join our Telegram group (https://t.me/BitcoinAustin) [QR](../assets/imgs/telegram-group.svg)
 - [pleb.fi](https://pleb.fi/austin/)
 - [Everyone is hiring right now](https://bitcoinerjobs.co/)
+- [Zion - social media on lightning](https://bitcoinmagazine.com/business/zion-social-media-on-lightning-network)
 
 ## News
 - [Infrastructure Bill](https://bitcoinmagazine.com/business/senators-speak-on-power-of-bitcoin)
