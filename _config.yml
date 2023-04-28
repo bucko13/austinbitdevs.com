@@ -4,6 +4,8 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
+baseurl: /austinbitdevs.com
+
 sass:
   sass_dir: assets/css
   style: :compressed
